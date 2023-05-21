@@ -8,8 +8,8 @@ Wordpress/CiviCRM may be installed and setup on a stand-alone PC. This can then 
 
 A slide show has been created to follow for the installation of Wordpress/CiviCRM. The slide show is available as either open document presentation or pdf format:
 
-* [Wordpress and CiviCRM Installation Presentation.odp](/Wordpress and CiviCRM Installation Presentation.odp)
-* [Wordpress and CiviCRM Installation Presentation.pdf](/Wordpress and CiviCRM Installation Presentation.pdf)
+* [Wordpress_and_CiviCRM_Installation_Presentation.odp](Wordpress_and_CiviCRM_Installation_Presentation.odp)
+* [Wordpress_and_CiviCRM_Installation_Presentation.pdf](Wordpress_and_CiviCRM_Installation_Presentation.pdf)
 
 In the slide show the following products are used:
 
